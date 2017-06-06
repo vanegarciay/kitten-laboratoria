@@ -1,0 +1,15 @@
+@media (min-width: 1px) and (max-width: 400px) {
+   body {
+    background-image: url("../img/noche.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 800px) {
+   body {
+    background-image: url("../img/tarde.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+}
